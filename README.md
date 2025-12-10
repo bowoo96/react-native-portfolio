@@ -53,19 +53,20 @@
 
 ## 🚀 セットアップ
 git clone https://github.com/bowoo96/react-native-portfolio.git<br>
-cd react-native-portfolio
-npm install
+cd react-native-portfolio<br>
+npm install<br>
 
-iOSの場合
-cd ios
-pod install
-cd ..
-npm run ios
+iOSの場合<br>
+cd ios<br>
+pod install<br>
+cd ..<br>
+npm run ios<br>
 
-Androidの場合
+Androidの場合<br>
 npm run android
 
 
 ## 🚨 注意事項
 - 公開版では API 利用や外部サービス(Mapbox / Firebase)は含まれていません。
 - 一部の画面は UI デモとして構成されています。<br>
+
