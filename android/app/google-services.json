@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254045121483",
+    "project_id": "markon-c500b",
+    "storage_bucket": "markon-c500b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254045121483:android:8dec26b6a55d9d10ada44e",
+        "android_client_info": {
+          "package_name": "com.markon.appproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneKvsvTQSAiRSX_1VRL8DNlNmk230kiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
